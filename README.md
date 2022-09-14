@@ -14,6 +14,6 @@ creating a cheak list
 - create a to do list     
 - add more items from paper 
 [x] <del> creat a top list </del>
-- [ ] addd more items
+- [ ] addd more items </del>
 
 ---
